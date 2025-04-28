@@ -1,0 +1,37 @@
+body {
+    background: #ADA5A4 url(../imagens/fundo.png);
+    font: 18px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+}
+
+#links {
+    background: #b6afad;
+    padding: 18px;
+}
+
+#conteudo {
+    background: #e0d7d5;
+    padding: 8px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+.borda-imagem {
+    border: 10px solid rgb(102, 102, 102);
+}
+
+a {
+    color: rgb(75, 72, 72);
+    font-weight: 650;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(91, 88, 88);
+    font-size: 18px;
+}
